@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="sound">Sound</string>
+    <string name="stop">Stop</string>
+</resources>
